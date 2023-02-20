@@ -2,5 +2,5 @@
 
 ![](images/slack-imgs.com.jpeg)
 
-Photo by<a href="https://unsplash.com/photos/6wAGwpsXHE0">
+Photo by  <a href="https://unsplash.com/photos/6wAGwpsXHE0">Belinda Fewings </a>
 
